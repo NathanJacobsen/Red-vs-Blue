@@ -3,7 +3,6 @@ The objective was to practice a number of different things learned throughout th
 
 - Implement alarms and thresholds in Elasticsearch Watcher.
 - Find vulnerabilities / exploits to gain access to a vulnerable WordPress site / server.
-- Use Wireshark to analyze and find malicious traffic on the wire.
 - Create a team presentation with the assessment, analysis and hardening of the vulnerable system.
 
 Read through the [Red Team](https://github.com/aprilemorales/FinalProject/blob/master/RedTeam.md), [Blue Team](https://github.com/aprilemorales/FinalProject/blob/master/BlueTeam.md) and [Network Analysis](https://github.com/aprilemorales/FinalProject/blob/master/NetworkAnalysis.md) files to the see the work, process and findings that lead up to creation of the final presetation.
